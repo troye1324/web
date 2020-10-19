@@ -1,0 +1,87 @@
+html,body { margin: 0; padding: 0;} 
+.clear {width: 100%; display: block; clear: both;}
+.wrap { width:1200px; float:none; text-align:center;margin:0 auto; }
+.dbanner { width: 100%; height: 65px; float:none; text-align:center; margin: 0 auto; }
+.banner { width: 100%; height: 65px; float: none; text-align:center; margin: 0 auto; box-shadow: #666 0px 0px 5px 0.2px; }
+.banner .logo { float: left; margin: 11px 80px auto 0px;}
+.banner .wrap .h1 { display: block; font-size: 18px; float: left; line-height: 65px; width: 100px; height: 65px; margin: auto 10px auto auto; color: #444;
+                    text-decoration: none; font-weight: bold;}
+.banner .h1:hover { background: #f59f35;}
+.banner .right { width: 300px; height: 30px; float: right;background: red(); margin: 14px auto auto auto;}
+.banner .sousuo { width: 55px; height: 30px; display: block; background: url(../images/rightdj.jpg); border: none; color: #fff; font-size:15px; float: right;margin: auto 5px auto auto;}
+.banner .shuru { margin: auto auto auto auto; width: 240px; height: 30px; border: #f3923a 1px solid; padding: 0 0 0 20px;}
+
+
+
+.guanggao { width:100%; height: 450px; float:none; text-align:center;margin:0 auto; background: url(../images/banner.jpg) center center no-repeat; color: #ffffff; 
+            padding: 198px 0 0 0 ;}
+.guanggao .wz { width:500px; float:none; text-align:center;margin:0 auto; background: black;}
+.guanggao gg1 { font-size: 72px; }
+.guanggao gg2 { font-size: 24px; }
+.guanggao gg3 { font-size: 18px; }
+.guanggao .gg4 { text-decoration: none; font-size: 16px; background: url(../images/dianjibj.png); width: 99px; height: 28px; display: block;text-align: center; 
+                 line-height: 28px;float:none; text-align:center;margin:0 auto; margin: 10px auto auto auto; color: #fff; font-size:16px; }
+
+
+.wrap .bigbox { width: 100%; height: 320px; margin: 30px auto auto auto; text-align:left;}
+.wrap .box { width: 285px; height: 225px; background: #fff; box-shadow: #666 0 0 5px 0.1px; float: left; margin: 20px 15px auto auto; text-align: center;}
+.wrap .bigbox h1 { margin: auto auto auto 0; display: block; width: 200px; height: 60px;  border-bottom: #666 2px solid; }
+.wrap .bigbox a { display: block; color: #000; text-decoration: none; font-size: 16px;float: right; margin: 10px 20px auto auto; }
+.wrap .bigbox .box img { margin: 1px auto 5px auto;}
+.wrap .bigbox .box em { font-style: normal;}
+.wrap .bigbox .box .xiangqing { text-decoration: none; color: #666; float: none; }
+.wrap .bigbox .box .xiangqing:hover { text-decoration: none; color: #666; text-decoration: underline;}
+
+
+
+.bottom { width: 100%; height: 80px; background: #f3923a; color: #ffffff; margin: 100px auto auto auto;}
+.bottom bq {  margin: auto 30px auto auto; line-height: 80px; text-align: center;}
+
+
+
+
+
+
+/**2D**/
+.wrap .xiaobanner { width: 100%; height: 150px; background: url(../images/xiaobanner/xiaobanner.jpg); text-align: left; color: #fff;}
+.wrap .xiaobanner zs1 { font-size: 50px; font-weight: bold; margin: auto auto auto 30px;}
+.wrap .xiaobanner zs2 { font-size: 20px; margin: auto auto auto 30px;}
+.wrap .xiaobanner zs3 { font-size: 30px; font-weight: bold; margin: auto auto auto 30px;}
+
+
+.wrap .nr { width: 100%; height: 700px; margin: 30px auto auto auto;}
+.nr .lb { float: left; }
+.wrap .lb .lbbox { width: 250px; height: 600px; box-shadow: #f3923a 0 0 2px 0.5px; text-align: center; }
+.lb .lbbox .one { width: 250px; height: 35px; background: lawngreen(); padding: 0 0 0 10px; text-align: left; line-height: 40px;color: #666; }
+.lb .lbbox .one:hover { width: 240px; height: 35px; background: #fbe9da; padding: 0 0 0 10px; text-align: left; line-height: 40px;color: #666;} 
+.lb .lbbox a { color: #666; font-size: 14px; text-decoration: none;}
+.lb .lbbox a:hover { color: rgb(255, 0, 0); text-decoration: none;}
+.lb .lbbox .lbtop { width: 225; height: 50px; background: url(../images/liebiaotop.jpg) no-repeat;text-align: left; line-height: 50px; padding: 0 0 0 60px; color: #fff;
+                    font-weight: bold; font-size: 22px;}
+.nr .nrright { width: 900px; height: 700px;float: right;}
+.nr .nrright .mininr a img { margin: -9px 1px auto 1px;}
+.nr .nrright .mininr { width: 285px; height: 300px; ; margin: auto auto 15px 15px;box-shadow: #f3923a 0 0 2px 0.5px; float: left; text-align:center; }
+.nr .nrright .mininr a { color: #444; float: left; margin: 10px auto auto auto; text-decoration: none; font-size: 19px; font-weight: bold;}
+.nr .nrright .mininr .xqbox { margin: auto 10px auto 10px;text-align: left;}
+.nr .nrright .mininr xq { margin: auto auto auto auto; font-size: 14px; color: #777;}
+.nr .mininr .bq {float: right;} 
+.nr .mininr jiage { color: #ff0000; line-height: 40px; font-weight: bold;}
+
+
+
+/**详情页**/
+.wrap .xqtop { width: 100%; height: 50px; background: #f3923a; text-align: left;  margin: 10px auto auto auto;}
+.wrap .xqtop h2 {background: lawngreen() ;float: left; font-size: 24px; color: #fff; margin: 8px auto auto 10px;}
+
+.wrap .xqjs { width: 100%; height: 200px; margin: 0px auto auto auto; box-shadow: #666 0 0 2px 0.2px; text-align: right;}
+.wrap .xqjs .tu {  margin: 10px 10px auto 10px;float: left;}
+.wrap .xqjs embed {  margin: 10px 10px auto 10px;float: left;}
+.wrap .xqright { width: 865px; height: 130px; box-shadow: #666 0 0 2px 0.1px; float: right; margin: 10px 10px auto auto; padding: 0px 0 0 20px; text-align: left;}
+.wrap .xqright h1 { display: block; width: 220px; height: 10px; float: left; font-size: 16px; ;}
+.wrap .xqright js { font-size: 14px; color: #444; }
+.wrap .xqright b { font-size: 20px; line-height: 40px; color: #000; margin: auto 10px auto auto;}
+.wrap .xqjs .xiazai { float: right; width: 885px; height: 40px; text-align: left; margin: 7px 10px auto auto; background: indigo();}
+.wrap .xqjs .xiazai .bdxz { display: block; width: 85px; height: 40px; line-height: 40px; background:url(../images/xiazai/bdxz.png); color: #fff; text-align: left;
+                           padding: 0 0 0 45px; float: left; margin-right: 20px; text-decoration: none;}
+.wrap .xqjs .xiazai .wpxz { display: block; width: 85px; height: 40px; line-height: 40px; background:url(../images/xiazai/wpxz.png); color: #fff; text-align: left;
+                            padding: 0 0 0 45px; float: left; margin-right: 20px; text-decoration: none;}
